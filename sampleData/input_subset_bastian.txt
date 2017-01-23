@@ -1,0 +1,4 @@
+data2/Eurhe1.filtered_proteins.FilteredModels1.gff3.gtf	data2/lasallia_pustulata_w_prot.scaffolds.fa
+data2/Leppa1.filtered_proteins.FilteredModels1.gff3.gtf	data2/Leppa1_AssemblyScaffolds.fasta
+data2/Micca1.filtered_proteins.BroadModels.gff3.gtf	data2/Micca1_AssemblyScaffolds.fasta
+data2/Spofi1.filtered_proteins.FilteredModels1.gff3.gtf	data2/Spofi1_AssemblyScaffolds.fasta
